@@ -5,6 +5,7 @@ gulp
 SASS
 Yeoman
 Postman
+Soap UI
 Jenkins
 Nexux
 Perforce
@@ -14,3 +15,8 @@ CA Agile Tech.
 Quality Control (QC)
 Sonar Qube (Sonar Fixes)
 AMC (Amdocs Monitoring and Controlling)
+MobaXterm // for checking crm,oms,rim,abp and all Env logs
+sqldeveloper
+---------need to Know----
+Yaml
+
