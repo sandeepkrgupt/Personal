@@ -2,9 +2,6 @@ React
 redux
 Git
 gulp or node-sass
-Node sass :- 
-Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor, Sass. 
-It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware.
 SASS/SCSS
 Yeoman
 Mocha
@@ -25,6 +22,7 @@ sqldeveloper - sql queries
 Yaml
 EsLint
 webpack
+babel
 
 ---- need to know ---
 Node js
