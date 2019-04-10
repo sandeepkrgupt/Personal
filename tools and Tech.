@@ -2,8 +2,11 @@ React
 redux
 Git
 gulp
-SASS
+SASS/SCSS
 Yeoman
+Mocha
+Chai
+Enzme
 Postman
 Soap UI
 Jenkins
@@ -14,10 +17,13 @@ filezilla
 CA Agile Tech.
 Quality Control (QC)
 Sonar Qube (Sonar Fixes)
-AMC (Amdocs Monitoring and Controlling)
-MobaXterm // for checking crm,oms,rim,abp and all Env logs
-sqldeveloper
----------need to Know----
+MobaXterm/putty // for checking crm,oms,rim,abp and all Env logs
+sqldeveloper - sql queries
 Yaml
 EsLint
+webpack
+
+---- need to know ---
+Node js
+Mongo DB
 
